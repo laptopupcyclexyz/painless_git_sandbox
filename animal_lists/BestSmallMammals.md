@@ -2,7 +2,7 @@
 
 1.  Dogs  
 2.  Cats  
-3.  Chinchillas
+3.  Humans
 4.  Guinea Pigs
 5.  Hedgehogs
 6.  Am I missing any?
