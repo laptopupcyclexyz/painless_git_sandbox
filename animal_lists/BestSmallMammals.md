@@ -1,7 +1,7 @@
 # Ten Best Small Mammals
 
-1.  Cats
-2.  Dogs
+1.  Dogs  
+2.  Cats  
 3.  Chinchillas
 4.  Guinea Pigs
 5.  Hedgehogs
