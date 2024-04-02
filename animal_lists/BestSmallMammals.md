@@ -8,5 +8,5 @@
 6.  Am I missing any?
 7.  Oh yeah!
 8.  I remember now.
-9.  Rabbits
+9.  lemurs
 10. Skunks
